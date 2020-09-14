@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+h1,h2,h3{
+font-family: 'Kanit', sans-serif;
+}
+
+.btn{
+	 width:200px;
+}
+
+.co{
+	color:green;
+}
